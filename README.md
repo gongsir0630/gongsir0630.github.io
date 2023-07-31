@@ -9,7 +9,7 @@ Hello👋，我是[程序员Kyle](https://gongsir.club)，这里是我的个人�
 - [Bing壁纸](https://bird.ioliu.cn/)
 - 基于Coding自动持续集成/部署
 
-## :speak_no_evil:[关于笔者](https://blog.gongsir.club/about/)
+## :speak_no_evil:[关于笔者](https://gongsir.club/blog/about/)
 目前大四在校生，热爱Java后端开发技术
 
 喜欢钻研新的知识、技术，同时热爱开源、创作、分享
@@ -18,7 +18,7 @@ Hello👋，我是[程序员Kyle](https://gongsir.club)，这里是我的个人�
 
 * [程序员Kyle✨个人主页](https://gongsir.club)
 * [gongsir0630✨GitHub](https://github.com/gongsir0630)
-* [程序员Kyle✨个人博客](https://blog.gongsir.club)
+* [程序员Kyle✨个人博客](https://gongsir.club/blog)
 * [程序员Kyle✨CSDN](https://blog.csdn.net/qq_41337581)
 
 ## :phone:联系我
